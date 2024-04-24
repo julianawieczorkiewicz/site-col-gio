@@ -5,6 +5,7 @@
 
 .cabeçalho{
     background-color: #001125;
+    color: #E9A226;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -19,4 +20,22 @@
     display: inline-block;
     margin: 0 40px;
     font-size: 24px;
+}
+
+.escola-imagem{
+    width: 60%;
+}
+
+.colégio{
+    background-color: #001125;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.colégio-div-conteúdo{
+    width: 15%;
+    font-size: 20px;
 }
