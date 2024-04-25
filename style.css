@@ -73,3 +73,31 @@ body{
 .biblioteca{
     width: 44%;
 }
+
+.grade-horária{
+    background-color: #001125;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 35px 0;
+}
+
+.grade-titulo-2{
+    padding: 20px 0;
+}
+
+.grade-div-horario{
+    width: 74%;
+    font-size: 20px;
+}
+
+.texto-aulas{
+    padding: 10px 0s;
+}
+
+.grade-de-aulas{
+    width: 55%;
+    padding: 20%;
+}
+
