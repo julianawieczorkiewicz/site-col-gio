@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    font-family: "Lora", serif;
+}
+
 .cabeçalho{
     background-color: #001125;
     color: #E9A226;
@@ -38,4 +42,34 @@
 .colégio-div-conteúdo{
     width: 15%;
     font-size: 20px;
+}
+
+.imagem-fachada{
+    width: 30%;
+}
+
+.sobre-o-colégio{
+    background-color: #001125;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 95px 0;
+}
+
+.sobre-titulo-1{
+    padding: 20px 0;
+}
+
+.colégio-div-sobre{
+    width: 44%;
+    font-size: 20px;
+}
+
+.texto-sobre-colégio-2{
+    padding: 20px 0;
+}
+
+.biblioteca{
+    width: 44%;
 }
