@@ -20,6 +20,11 @@ body{
     width: 20%;
 }
 
+.cabeçalho-lista-itens a{
+    text-decoration: none;
+    color: #E9A226;
+}
+
 .cabeçalho-itens{
     display: inline-block;
     margin: 0 40px;
@@ -48,7 +53,7 @@ body{
     width: 30%;
 }
 
-.sobre-o-colégio{
+#SOBRE-O-COLÉGIO{
     background-color: #001125;
     color: white;
     display: flex;
@@ -74,7 +79,7 @@ body{
     width: 44%;
 }
 
-.grade-horária{
+#GRADE-HORÁRIA{
     background-color: #001125;
     color: white;
     display: flex;
@@ -101,7 +106,7 @@ body{
     padding: 20px 0;
 }
 
-.contatos{
+#CONTATOS{
     background-color: #001125;
     color: white;
     font-size: 16px;
