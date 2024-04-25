@@ -98,6 +98,65 @@ body{
 
 .grade-de-aulas{
     width: 55%;
-    padding: 20%;
+    padding: 20px 0;
 }
+
+.contatos{
+    background-color: #001125;
+    color: white;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 80px 0;
+    
+}
+
+.endereço{
+    padding: 20px 0;
+    font-size: 18px;
+    text-align: center;
+}
+ .contatos-icone{
+    width: 15%;
+    padding: 10px 0;
+
+ }
+
+ .telefone{
+    padding: 20px 0;
+    font-size: 18px;
+ }
+
+ .contatos-icone-2{
+    width: 15%;
+    padding: 10px 0;
+    
+ }
+
+ .instagram{
+    padding: 20px 0;
+    font-size: 18px;
+ }
+
+ .contatos-icone-3{
+    width: 15%;
+    padding: 10px 0;
+ }
+
+
+ .contatos-div{
+    display: grid;
+    grid-template-rows: 50% 50%;
+ }
+
+ .rodapé{
+    background-color: #E9A226;
+    text-align: center;
+ }
+
+ .rodapé-imagem{
+    height: 60px;
+    padding: 10px 0;
+ }
 
